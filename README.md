@@ -97,7 +97,7 @@ TaskFlow/
 ├── screenshots/
 ├── README.md
 └── .gitignore
-
+```
 
 ⚡ Installation Guide
 1️⃣ Clone Repository
